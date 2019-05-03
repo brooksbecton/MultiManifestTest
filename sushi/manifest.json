@@ -5,8 +5,8 @@
   "background_color": "#2196f3",
   "display": "fullscreen",
   "orientation": "portrait",
-  "Scope": "/MultiManifestTest",
-  "start_url": "/MultiManifestTest",
+  "Scope": "/MultiManifestTest/sushi",
+  "start_url": "/MultiManifestTest/sushi",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
